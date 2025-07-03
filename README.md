@@ -46,8 +46,8 @@ This project showcases the use of **Support Vector Machine (SVM)** classifiers t
 | --------------------------------- | ---------------------------------- |
 | [Linear SVM](linear_svm_confusion_matrix.png) | Confusion matrix for linear kernel |
 | [rbf SVM](rbf_svm_confusion_matrix.png)    | Confusion matrix for RBF kernel    |
-| [gaph](svm_2d_decision_boundary.png)    | Linear SVM decision boundary in 2D |
-| [](svm_3d_scatter_plot.png)         | Data distribution in 3D space      |
+| [svm_2d_decision_boundary](svm_2d_decision_boundary.png)    | Linear SVM decision boundary in 2D |
+| [svm_3d_scatter_plot](svm_3d_scatter_plot.png)         | Data distribution in 3D space      |
 
 ---
 
