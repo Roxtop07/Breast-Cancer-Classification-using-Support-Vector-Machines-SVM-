@@ -68,7 +68,9 @@ This project showcases the use of **Support Vector Machine (SVM)** classifiers t
 ## 📌 How to Run
 
 ```bash
-pip install -r requirements.txt
+pip install pandas numpy seaborn sk-learn matplotlib
+pip install ipykernel
+python -m ipykernel install --user --
 jupyter notebook
 ```
 
